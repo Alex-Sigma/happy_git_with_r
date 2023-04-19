@@ -1,7 +1,7 @@
 ---
 title: "happy_git_with_r"
-output: html_document
 date: "2023-03-24"
+output: github_document 
 ---
 
 ```{r setup, include=FALSE}
